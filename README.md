@@ -10,8 +10,16 @@ I'm a passionate web developer with over 4 years of experience, specializing in 
 - **CSS Frameworks**: Tailwind CSS, Bootstrap
 - **Version Control**: Git, GitHub
 - **Backend**: Node.js, Express.js, MongoDB
-- **Testing**: Jest, React Testing Library
+- **Testing**: React Testing Library, Chrome DevTools
 - **Deployment**: Vercel, Netlify, GitHub Pages
+
+## 💡 **What I Do**
+
+- Build dynamic, user-friendly web applications with **React** and **Next.js**.
+- Create pixel-perfect, responsive designs with **Tailwind CSS** and **Bootstrap**.
+- Ensure web accessibility and performance optimization.
+- Convert design files (Figma, Sketch, Adobe XD) into fully functional web pages.
+- Collaborate in teams and contribute to code reviews, debugging, and testing.
 
 ## 🛠 My Projects
 
@@ -29,11 +37,18 @@ I'm a passionate web developer with over 4 years of experience, specializing in 
 
 ## 🔗 Connect with Me
 
+- **Email**: [eng.ahmedalabadla@gmail.com](mailto:eng.ahmedalabadla@gmail.com)
+- **LinkedIn**: [Ahmed Alabadla](https://linkedin.com/in/ahmed-alabadla)
 - **Portfolio**: [ahmedalabadla.vercel.app](https://ahmedalabadla.vercel.app)
 - **GitHub**: [Ahmed-Alabadla](https://github.com/Ahmed-Alabadla)
-- **LinkedIn**: [Ahmed Alabadla](https://linkedin.com/in/ahmed-alabadla)
 
 Feel free to check out my repositories and get in touch!
+
+## 📈 **GitHub Stats**
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Alabadla&show_icons=true&theme=radical)
+
+Thanks for visiting! 😊 Let's build something amazing together.
 
 
 <!--
