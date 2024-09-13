@@ -2,14 +2,13 @@
 
 **Frontend Web Developer | Next.js | React JS**
 
-I'm a passionate web developer with over 4 years of experience, specializing in creating responsive and scalable web applications using **Next.js**, **React JS**, and **MERN Stack**. I have strong expertise in UI development, debugging, and transforming designs into web pages with a focus on performance and usability.
+I'm a passionate web developer with over 4 years of experience, specializing in creating responsive and scalable web applications using **Next.js**, **React JS**. I have strong expertise in UI development, debugging, and transforming designs into web pages with a focus on performance and usability.
 
 ## 🚀 Technologies & Tools
 
-- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, Next.js, React JS
+- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React JS, Next.js
 - **CSS Frameworks**: Tailwind CSS, Bootstrap
 - **Version Control**: Git, GitHub
-- **Backend**: Node.js, Express.js, MongoDB
 - **Testing**: React Testing Library, Chrome DevTools
 - **Deployment**: Vercel, Netlify, GitHub Pages
 
@@ -23,7 +22,7 @@ I'm a passionate web developer with over 4 years of experience, specializing in 
 
 ## 🛠 My Projects
 
-1. **[Portfolio Website](https://ahmedalabadla.vercel.app/)**  
+1. **[Landing Page Portoflio](https://ahmedalabadla-landing-page-portfolio.vercel.app/)**  
    My personal website built with React and Tailwind CSS.
 
 2. **[Weather App](https://ahmed-alabadla.github.io/weather-app/)**  
@@ -33,7 +32,7 @@ I'm a passionate web developer with over 4 years of experience, specializing in 
    A JavaScript app utilizing REST API for social media functionality.
 
 4. **[Cart App](https://cart-app-mu.vercel.app/)**  
-   A React and Redux-powered shopping cart application.
+   A React and Redux-toolkit shopping cart application.
 
 ## 🔗 Connect with Me
 
@@ -44,13 +43,19 @@ I'm a passionate web developer with over 4 years of experience, specializing in 
 
 Feel free to check out my repositories and get in touch!
 
+##
+Thanks for visiting! 😊 Let's build something amazing together.
+
+<!-- 
+
+- **Backend**: Node.js, Express.js, MongoDB
+
+
 ## 📈 **GitHub Stats**
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Alabadla&show_icons=true&theme=radical)
 
-Thanks for visiting! 😊 Let's build something amazing together.
-
-
+-->
 <!--
 **Ahmed-Alabadla/Ahmed-Alabadla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
