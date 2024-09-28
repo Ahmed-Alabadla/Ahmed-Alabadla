@@ -37,7 +37,7 @@ I'm a passionate web developer with over 4 years of experience, specializing in 
 ## 🔗 Connect with Me
 
 - **Email**: [eng.ahmedalabadla@gmail.com](mailto:eng.ahmedalabadla@gmail.com)
-- **LinkedIn**: [Ahmed Alabadla](https://linkedin.com/in/ahmed-alabadla)
+- **LinkedIn**: [Ahmed Alabadla](https://linkedin.com/in/ahmedalabadla)
 - **Portfolio**: [ahmedalabadla.vercel.app](https://ahmedalabadla.vercel.app)
 - **GitHub**: [Ahmed-Alabadla](https://github.com/Ahmed-Alabadla)
 
