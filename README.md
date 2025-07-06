@@ -1,72 +1,50 @@
 # Hi, I'm Ahmed Alabadla 👋
 
-**Frontend Web Developer | Next.js | React JS**
+**Full Stack Web Developer | NestJS | Next.js | TypeScript**
 
-I'm a passionate web developer with over 4 years of experience, specializing in creating responsive and scalable web applications using **Next.js**, **React JS**. I have strong expertise in UI development, debugging, and transforming designs into web pages with a focus on performance and usability.
+I'm a dedicated developer who enjoys building modern, scalable web applications from front to back. I specialize in **NestJS** and **Next.js**, creating responsive user interfaces and robust backend APIs. I focus on clean code, performance, and delivering practical solutions that meet real-world needs. I thrive in collaborative environments and continuously explore new tools and technologies to improve development workflows.
 
 ## 🚀 Technologies & Tools
 
-- **Frontend**: HTML5, CSS3, JavaScript, TypeScript, React JS, Next.js
-- **CSS Frameworks**: Tailwind CSS, Bootstrap
-- **Version Control**: Git, GitHub
-- **Testing**: React Testing Library, Chrome DevTools
-- **Deployment**: Vercel, Netlify, GitHub Pages
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, ShadCN UI
+- **Backend**: NestJS, Node.js, REST APIs
+- **Databases**: PostgreSQL, MongoDB
+- **DevOps & Tools**: Git, GitHub, Vercel
+- **Other**: React Query, PWA, Stripe, Cloudinary, OAuth, JWT
 
-## 💡 **What I Do**
+## 💡 What I Do
 
-- Build dynamic, user-friendly web applications with **React** and **Next.js**.
-- Create pixel-perfect, responsive designs with **Tailwind CSS** and **Bootstrap**.
-- Ensure web accessibility and performance optimization.
-- Convert design files (Figma, Sketch, Adobe XD) into fully functional web pages.
-- Collaborate in teams and contribute to code reviews, debugging, and testing.
+- Develop full-stack applications using **NestJS** and **Next.js**
+- Build responsive and accessible UIs with **Tailwind CSS** and **ShadCN UI**
+- Design and consume secure **REST APIs** with authentication and role-based access
+- Integrate third-party services like **Stripe**, **Cloudinary**, and **OAuth**
+- Collaborate in teams, debug efficiently, and contribute to scalable architecture
 
-## 🛠 My Projects
+## 🛠 Highlight Projects
 
-1. **[Landing Page Portoflio](https://ahmedalabadla-landing-page-portfolio.vercel.app/)**  
-   My personal website built with React and Tailwind CSS.
+1. **[E-commerce Platform – TrendHub](https://trendhub-shop.vercel.app)**  
+   Full-stack e-commerce system with authentication, product search, shopping cart, wishlist, reviews, and Stripe payments. Includes an admin dashboard for managing products, orders, and users.  
+   _Tech Stack_: Next.js, NestJS, PostgreSQL, Stripe, Cloudinary, JWT, OAuth  
+   **Repositories**:  
+   - [Ecommerce-TrendHub-Dashboard](https://github.com/Ahmed-Alabadla/Ecommerce-TrendHub-Dashboard)  
+   - [Ecommerce-TrendHub](https://github.com/Ahmed-Alabadla/Ecommerce-TrendHub)  
+   - [Ecommerce-TrendHub-Backend](https://github.com/Ahmed-Alabadla/Ecommerce-TrendHub-Backend)
 
-2. **[Weather App](https://ahmed-alabadla.github.io/weather-app/)**  
-   A React-based weather application using REST API.
+2. **[Personal Portfolio Website](https://ahmedalabadla.vercel.app/)**  
+   Responsive site showcasing my projects and skills  
+   _Tech Stack_: Next.js, Tailwind CSS, Vercel
 
 3. **[Social Media App](https://social-media-js-rest-api.netlify.app/)**  
-   A JavaScript app utilizing REST API for social media functionality.
-
-4. **[Cart App](https://cart-app-mu.vercel.app/)**  
-   A React and Redux-toolkit shopping cart application.
+   A frontend app using REST APIs for basic social media features  
+   _Tech Stack_: JavaScript, REST API, Netlify
 
 ## 🔗 Connect with Me
 
-- **Email**: [eng.ahmedalabadla@gmail.com](mailto:eng.ahmedalabadla@gmail.com)
-- **LinkedIn**: [Ahmed Alabadla](https://linkedin.com/in/ahmedalabadla)
-- **Portfolio**: [ahmedalabadla.vercel.app](https://ahmedalabadla.vercel.app)
-- **GitHub**: [Ahmed-Alabadla](https://github.com/Ahmed-Alabadla)
+- 📧 **Email**: [eng.ahmedalabadla@gmail.com](mailto:eng.ahmedalabadla@gmail.com)
+- 💼 **LinkedIn**: [Ahmed Alabadla](https://linkedin.com/in/ahmedalabadla)
+- 🌐 **Portfolio**: [ahmedalabadla.vercel.app](https://ahmedalabadla.vercel.app)
+- 💻 **GitHub**: [Ahmed-Alabadla](https://github.com/Ahmed-Alabadla)
 
-Feel free to check out my repositories and get in touch!
+---
 
-##
-Thanks for visiting! 😊 Let's build something amazing together.
-
-<!-- 
-
-- **Backend**: Node.js, Express.js, MongoDB
-
-
-## 📈 **GitHub Stats**
-
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Alabadla&show_icons=true&theme=radical)
-
--->
-<!--
-**Ahmed-Alabadla/Ahmed-Alabadla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! 😊 Let's build something impactful together.
